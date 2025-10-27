@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
